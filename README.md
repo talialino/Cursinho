@@ -1,7 +1,10 @@
 # Cursinho
 ### Este mini projeto desktop gerencia um cursinho de inglês e espanhol.
-- Conexão com o Banco de dados (SQL Server)
-- Tela para cadastro de aluno e responsável
-- Tela para adicionar notas do aluno
-- Tela para adicionar chamada
-- #### { Projeto em Criação }
+
+#### O que tem neste projeto
+- [x] Conexão com o Banco de dados (SQL Server)
+- [x] Tela para cadastro de aluno e responsável
+- [x] Tela para adicionar notas do aluno
+- [x] Tela para adicionar chamada
+
+- #### { Projeto em construção }
